@@ -85,7 +85,7 @@ EOF
 
 RUN set -exu && \
     cat >changelog <<EOF
-tinypilot (${PKG_VERSION}) bullseye; urgency=medium
+tinypilot (${PKG_VERSION}) bookworm; urgency=medium
 
   * Latest TinyPilot release.
 
