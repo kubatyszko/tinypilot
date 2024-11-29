@@ -88,4 +88,4 @@ tar \
   --gzip \
   --file "${OUTPUT_DIR}/${BUNDLE_FILENAME}" \
   --directory "${BUNDLE_DIR}" \
-  .
+  ./
